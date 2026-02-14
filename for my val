@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>For My Valentine ❤️</title>
+  <style>
+    body {
+      background-color: #ffdde1;
+      text-align: center;
+      font-family: Arial;
+    }
+    h1 {
+      color: #ff004c;
+      margin-top: 100px;
+    }
+    button {
+      padding: 10px 20px;
+      background: red;
+      color: white;
+      border: none;
+      border-radius: 10px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Happy Valentine's Day, My Love 💕
+    To My Perfection,
+I don’t even know how to start this without feeling overwhelmed, because how do you put something this deep into words?
+Perfection, you are exactly what your name says. Not just because you’re beautiful (and trust me, you are — from the little birthmark on your face to your tiny fingers and your fine body that still makes my heart skip), but because of your heart.
+You inspire me. That’s the part that hits the hardest.
+The way you push me to live better for God. The way you carry yourself with wisdom. The way you think, speak, and move with intention. You make me want to grow. You make me want to become a better man — spiritually, mentally, emotionally.
+You’re 19, but sometimes it feels like you have this calm maturity that steadies me. Being with you makes me feel safe. Genuinely safe. And I don’t say that lightly. No one has ever made me feel as okay as you do. When I’m with you, I don’t feel like I have to pretend. I don’t feel like I have to be stronger than I am. I can just be me.
+And that surprise link you coded for me? Do you even understand how special that was? You didn’t just send words. You built something. You used your mind, your creativity, your time — for me. That’s love in a language I understand deeply. As a computer science guy, that meant more than you probably know.
+Sometimes I love you so much it actually scares me because I don’t know how to contain it. I don’t know how to express something that feels bigger than words. I just know that you matter to me in a way that’s rare. In a way that’s sacred.
+Thank you for being cool, smart, inspiring, beautiful, and safe. Thank you for choosing me. Thank you for being my peace.
+I love you more than I know how to explain.
+Always yours,
+Victor 🤍</h1>
+<p>You are my favorite person in the whole world.</p>
+<button onclick="alert('You are stuck with me forever 😌❤️')">
+Click Me
+</button>
+
+</body>
+</html>
